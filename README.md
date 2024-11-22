@@ -32,4 +32,4 @@ That's it! The app is simple and works as expected.
 ## Running the App
 To run this app, ensure you have Python installed. Save the code in a `.py` file and run it using:
 ```bash
-python calculator.py
+Simple_GUI_Calculator.py
