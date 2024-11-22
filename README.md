@@ -13,6 +13,12 @@ Below is a screenshot of how the app looks when running:
 
 ![GUI Calculator](src/img.jpg)
 
+![GUI Calculator](src/img1.jpg)
+
+![GUI Calculator](src/img.jpg)
+
+![GUI Calculator](src/img.jpg)
+
 ## Steps to Create the App
 1. **Import Tkinter**  
    Use the `tkinter` module to create a graphical interface.  
