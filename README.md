@@ -11,7 +11,7 @@ This project is a basic calculator built using Python's `tkinter` module. It can
 ### Screenshot of the Calculator
 Below is a screenshot of how the app looks when running:
 
-![GUI Calculator](output.jpg)
+![GUI Calculator](https://github.com/Shashwat-11321/Simple-GUI-Calculator/src/)
 
 ## Steps to Create the App
 1. **Import Tkinter**  
